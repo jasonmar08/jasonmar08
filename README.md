@@ -2,7 +2,7 @@
 
 ---
 
-![Banner](https://i.postimg.cc/T3T2dDB8/pngtree-blue-technology-wind-medical-banner-image-261198.jpg)
+![Banner](https://media-exp1.licdn.com/dms/image/C5616AQHsYCEt1Uhw1Q/profile-displaybackgroundimage-shrink_200_800/0/1657049870514?e=1667433600&v=beta&t=8nPhMwjDdqW_87X6FeuvF5YM2HR2scDFSI3PlZXLPtk)
 
 As a software engineer with a background collaborating in biological sciences and healthcare, I find satisfaction in empathetic work that incorporates evidence-based solutions and transparent set goals. I frequently challenge myself to update my repertoire of technical practices with the latest advancements in science and tech, while applying these skills to a personalized proposal that prioritizes the individual needs of clients.
 
