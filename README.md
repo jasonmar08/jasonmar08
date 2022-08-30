@@ -2,7 +2,7 @@
 
 ---
 
-![Banner](https://i.postimg.cc/8zLNnFfd/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f4335363136415148735943.jpg)
+![Welcome Banner](https://user-images.githubusercontent.com/107519645/187530023-12310a00-3630-40a6-87f5-2578b8ed4f1b.jpeg)
 
 As a software engineer with a background collaborating in biological sciences and healthcare, I find satisfaction in empathetic work that incorporates evidence-based solutions and transparent set goals. I frequently challenge myself to update my repertoire of technical practices with the latest advancements in science and tech, while applying these skills to a personalized proposal that prioritizes the individual needs of clients.
 
