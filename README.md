@@ -2,7 +2,7 @@
 
 ---
 
-![Banner](https://media-exp1.licdn.com/dms/image/C5616AQHsYCEt1Uhw1Q/profile-displaybackgroundimage-shrink_200_800/0/1657049870514?e=1667433600&v=beta&t=8nPhMwjDdqW_87X6FeuvF5YM2HR2scDFSI3PlZXLPtk)
+![Banner](https://i.postimg.cc/8zLNnFfd/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f4335363136415148735943.jpg)
 
 As a software engineer with a background collaborating in biological sciences and healthcare, I find satisfaction in empathetic work that incorporates evidence-based solutions and transparent set goals. I frequently challenge myself to update my repertoire of technical practices with the latest advancements in science and tech, while applying these skills to a personalized proposal that prioritizes the individual needs of clients.
 
