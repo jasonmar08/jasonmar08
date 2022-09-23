@@ -9,8 +9,10 @@
 #### Software Engineer with a background collaborating in biological sciences and healthcare. I find satisfaction in empathetic work that incorporates evidence-based solutions and transparent set goals. I challenge myself to update my repertoire of technical skills by staying curious and learning from more experienced professionals. In doing so, I strive for constructive critique and constant self-improvement for better coding practices. My inclination to build relationships with peers would allow me to bring out the human aspect of my work and keep a client’s best interest at the forefront of my focus. ####
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonmar08&show_icons=true&theme=prussian" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmar08&layout=compact&theme=prussian" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmar08&layout=compact&theme=prussian" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonmar08&show_icons=true&theme=prussian" height="130" /> <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=prussian" height="130" />
 </p>
    
 <!--
