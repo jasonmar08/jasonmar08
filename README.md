@@ -10,7 +10,7 @@
 Software Engineer with a background collaborating in biological sciences and healthcare. I am motivated by constructive critique and constant self-improvement towards better coding practices. I am driven by empathy with an inclination towards building relationships with peers, allowing me to bring out the human aspect of my work and keep a client’s best interest at the forefront of my focus. </p>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/martinez-jason"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a> <a href="https://jason-mar-portfolio.web.app/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a>
+  <a href="http://www.linkedin.com/in/martinez-jason" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a> <a href="https://jason-mar-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gray.svg" height="28" /></a>
 </p>
 
 <p align="center">
