@@ -4,7 +4,7 @@
 
 ### As a 💻 software engineer 💻 with a background collaborating in 🧪 biological sciences and healthcare 🧬, I find satisfaction in empathetic work that incorporates evidence-based solutions and transparent set goals. I frequently challenge myself to update my repertoire of technical practices with the latest advancements in science and tech, while applying these skills to a personalized proposal that prioritizes the individual needs of clients. ###
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmar08&show_icons=true&theme=yeblu)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmar08&show_icons=true&theme=algolia)
 
 <!--
 **jasonmar08/jasonmar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
