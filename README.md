@@ -12,7 +12,7 @@ As a software engineer with a background in biological sciences and healthcare, 
 <p align="center">
   <a href="http://www.linkedin.com/in/martinez-jason" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a> <a href="https://jason-mar-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gray.svg" height="28" /></a>
   <br>
-  <a href="https://github.com/jasonmar08/Professional_Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Repo-light-gray.svg" height="28" /></a>
+  <a href="https://github.com/jasonmar08/Professional_Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Repo-informational.svg" height="28" /></a>
 </p>
 
 <p align="center">
