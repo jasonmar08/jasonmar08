@@ -7,10 +7,11 @@
 </p>
 
 <p align="justify">
-Software Engineer with a background collaborating in biological sciences and healthcare. I am motivated by constructive critique and constant self-improvement towards better coding practices. I am driven by empathy with an inclination towards building relationships with peers, allowing me to bring out the human aspect of my work and keep a client’s best interest at the forefront of my focus. </p>
+As a software engineer with a background in biological sciences and healthcare, I bring a unique perspective to the tech industry. I find satisfaction in meaningful work that incorporates data-driven practices and solutions. I am driven by challenge and have a keen ability to pick up new languages and meet tight deadlines. I have experience working on an Agile/Scrum team and understand the importance of collaboration and communication in delivering quality work. Whether I am developing full-stack applications, my top priority is always delivering work that is optimized and functional. I approach every task with the intent to learn and grow, and I am always looking for new challenges. With my skills and enthusiasm, I am ready to take on any project and make a real impact in the tech industry.🚀💻👨🏻‍💻🧬 </p>
 
 <p align="center">
   <a href="http://www.linkedin.com/in/martinez-jason" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a> <a href="https://jason-mar-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gray.svg" height="28" /></a>
+  <a href="https://jason-mar-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Repo-white.svg" height="28" /></a>
 </p>
 
 <p align="center">
